@@ -1,0 +1,13 @@
+lib/
+bindist/
+.classpath
+.project
+.settings/
+bin/
+classes/
+report/
+dist/
+.idea/
+/eSTMiner/output/
+/dll/
+SPECpp.iml
